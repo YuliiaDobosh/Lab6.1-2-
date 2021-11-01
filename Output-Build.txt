@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: Lab6.1(2), Configuration: Debug Win32 ------
+1>Lab6.1(2).cpp
+1>C:\Users\HP\source\repos\Lab6.1(2)\Lab6.1(2).cpp(23,14): warning C4390: ';': empty controlled statement found; is this the intent?
+1>C:\Users\HP\source\repos\Lab6.1(2)\Lab6.1(2).cpp(32,15): warning C4390: ';': empty controlled statement found; is this the intent?
+1>C:\Users\HP\source\repos\Lab6.1(2)\Lab6.1(2).cpp(37): warning C4717: 'Count': recursive on all control paths, function will cause runtime stack overflow
+1>C:\Users\HP\source\repos\Lab6.1(2)\Lab6.1(2).cpp(28): warning C4717: 'Sum': recursive on all control paths, function will cause runtime stack overflow
+1>Lab6.1(2).vcxproj -> C:\Users\HP\source\repos\Lab6.1(2)\Debug\Lab6.1(2).exe
+1>Done building project "Lab6.1(2).vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
